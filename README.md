@@ -25,7 +25,7 @@ Space - Бхоп
   "Custom installation" => "Unicode 64" => All checkboxes => "Install"
 ![hippo](https://media.giphy.com/media/LerrohpjasApOHH9G1/giphy.gif)
 
-2. Скачать репозиторий (Code > [Download Zip👌](https://github.com/Kramar1337/WutheringWaves-AHK-flex/archive/main.zip))
+2. Скачать репозиторий (Code > [Download Zip👌](https://github.com/Kramar1337/Tarisland-AHK-flex/archive/main.zip))
 
 3. Запустить "TariFlex.ahk"
 
